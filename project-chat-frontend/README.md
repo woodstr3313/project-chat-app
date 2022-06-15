@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# MERN Stack Single Chat App: Exchange(); 📲
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Concept 📝
+This full stack MERN chat app is an application designed to connect users with new people across the globe with similar interests, whether it's general chat, sports, crypto or anything that's on your mind. Your new friends are just a click away, waiting for you! 🚀
 
-In the project directory, you can run:
 
-### `npm start`
+## Table of Contents 📋
+### [Installation](#installation)
+### [Usage](#usage) 
+### [License](#license) 
+### [Contributions](#contributions) 
+### [Questions](#questions) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![User creates a login, logs in, and navigates chat features sections on the webpage.](./src/components/images/....png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used 💻
+This web app uses [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://www.mongodb.com/), [Express.js](https://expressjs.com/), [React.js](https://reactjs.org/), [Node.js](https://nodejs.org/en/), and [Socket.IO](https://socket.io/).
 
-### `npm run build`
+To install and run, open the code in VS Code. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **[GitHub Deployment]()**
+- **[Heroku deployment]()**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
+Upon using this app, You will be able to create a user, login to the app, navigate to the app's different chat rooms, and chat with fellow users on the app. Run the MERN stack app and navigate the site **[here]()**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **Future Developments**
+In the future we intend to:
+- Add a location setting so the app can show locals to chat with. 
+- Include personal information settings to show common interests, personality types, and favorite activities.
+- Update and Delete personal profiles.
+- Expanding the application to serve as a chat/ matchmaking application.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**MIT:** https://opensource.org/licenses/MIT - The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contributions 👥
+This MERN Stack Single Chat App was made in collaboration between:
+- [Travis Woods](https://github.com/woodstr3313/)
+- [Hannah Culver-Zawislak](https://github.com/hculv/)
+- [Brian Garcia](https://github.com/itsbrianfire/)
+- [Ian Jean-Pierre](https://github.com/HotelYankee)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Questions 👋
+Questions or comments about the project? Feel free to reach out to any of the contributors listed above.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Coding!
