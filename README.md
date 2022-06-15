@@ -12,7 +12,7 @@ This full stack MERN chat app is an application designed to connect users with n
 ### [Contributions](#contributions) 
 ### [Questions](#questions) 
 
-![User creates a login, logs in, and navigates chat features sections on the webpage.](./src/components/images/....png)
+![User creates a login, logs in, and navigates chat features sections on the webpage.](./project-chat-frontend/src/assets/exchange-social-chat-app.png)
 
 ---
 
@@ -22,17 +22,15 @@ This web app uses [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://ww
 
 To install and run, open the code in VS Code. 
 
-Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
-
-- **[GitHub Deployment]()**
-- **[Heroku deployment]()**
-
+- **[GitHub Repository](https://github.com/woodstr3313/project-chat-app)**
+- **[GitHub Deployment](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**
+- **[Heroku deployment](https://mern-stack-exchange-chat-app.herokuapp.com/)**
 
 ---
 
 
 ## Usage
-Upon using this app, You will be able to create a user, login to the app, navigate to the app's different chat rooms, and chat with fellow users on the app. Run the MERN stack app and navigate the site **[here]()**.
+Upon using this app, You will be able to create a user, login to the app, navigate to the app's different chat rooms, and chat with fellow users on the app. Run the MERN stack app and navigate the site **[here](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**.
 
 ### **Future Developments**
 In the future we intend to:
@@ -65,6 +63,6 @@ This MERN Stack Single Chat App was made in collaboration between:
 
 
 ## Questions 👋
-Questions or comments about the project? Feel free to reach out to any of the contributors listed above.
+Questions or comments about the project? Feel free to reach us to any of the contributers listed above.
 
 Happy Coding!
