@@ -1,8 +1,38 @@
 .login__bg {
-    background-image: url(https://images.unsplash.com/photo-1582399812107-20a59c3d305f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2630&q=80);
-    height: 92vh;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    overflow-x: hidden;
+  background-image: url(https://images.unsplash.com/photo-1582399812107-20a59c3d305f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80);
+  height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+
+.form-con{
+  
+  /* border: solid red; */
+}
+.login-form{
+  /* border: solid; */
+  background-color: #D6CBC1;
+  padding: 1rem;
+  border-radius: 15px;
+  height: 70%;
+  width: 90% !important;
+  display: flex;
+  flex-direction: column;
+
+}
+.login-btn{
+  width: 150px;
+  margin: 0 auto;
+  height: 3.5rem;
+  margin-top: 2rem;
+  font-size: 1.5rem !important;
+  /* padding: .5rem !important; */
+}
+.py-4  p{
+  margin-top: 1rem !important;
+  font-size: 1.5rem;
+
 }
